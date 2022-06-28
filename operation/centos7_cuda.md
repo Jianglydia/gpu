@@ -91,3 +91,5 @@ $ export LD_LIBRARY_PATH=:$LD_LIBRARY_PATH
 <code>
 \# nvidia-smi -pm 1
 </code>
+
+?> 如上述文档不能解决您安装驱动过程中遇到的问题，可联系技术支持，为您提供协助。
